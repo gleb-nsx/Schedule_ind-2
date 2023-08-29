@@ -1,0 +1,2 @@
+   <link rel="stylesheet" href="/Start_bootstrap/bootstrap.min — копия.css">
+   <script src="/Start_bootstrap/bootstrap.bundle.min — копия.js">
